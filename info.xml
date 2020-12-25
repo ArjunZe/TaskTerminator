@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <info>
+        <host>https://dm-us.informaticacloud.com</host>
+        <uname>test</uname>
+	    <pass>test2</pass>
+	    <pollInterval>1</pollInterval>
+		<maxWait>1</maxWait>
+		<DST>1</DST>
+		<debug>1</debug>
+  </info>
+</root>
